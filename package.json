@@ -1,0 +1,26 @@
+{
+  "name": "is-debug",
+  "version": "1.0.0",
+  "description": "Returns true depending on environment",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.20.1",
+    "sinon": "^1.10.3"
+  },
+  "scripts": {
+    "test": "mocha --reporter=spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/airbrite/is-debug.git"
+  },
+  "author": "Kelly Miyashiro <kelly@trycelery.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/airbrite/is-debug/issues"
+  },
+  "homepage": "https://github.com/airbrite/is-debug"
+}
